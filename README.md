@@ -2,7 +2,7 @@
 
 An image classification project that predicts the type of waste from a photo into one of 6 classes: **cardboard, glass, metal, paper, plastic, trash**. Three approaches are compared: a classical ML baseline, a CNN built from scratch, and transfer learning with MobileNetV2.
 
-**🔗 Live demo:** [ADD YOUR STREAMLIT LINK HERE]
+**🔗 Live demo:** (ADD YOUR STREAMLIT LINK HERE)
 > If the app is asleep, click the wake-up button and wait about 30 seconds.
 
 ## Results
@@ -60,8 +60,8 @@ streamlit run streamlit_app.py
 
 ## Dataset
 
-[ADD DATASET NAME AND LINK HERE] - 6 classes, split 80% training / 20% testing, images resized to 128x128 and normalised to [0, 1].
+(https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) - 6 classes, split 80% training / 20% testing, images resized to 128x128 and normalised to [0, 1].
 
 ## Author
 
-[Your name] - [LinkedIn] - [Email]
+Fizza khan - (https://www.linkedin.com/in/fizzasarfarazkhan) - fizzakh2003@gmail.com
