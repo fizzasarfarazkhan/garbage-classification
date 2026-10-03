@@ -2,7 +2,7 @@
 
 An image classification project that predicts the type of waste from a photo into one of 6 classes: **cardboard, glass, metal, paper, plastic, trash**. Three approaches are compared: a classical ML baseline, a CNN built from scratch, and transfer learning with MobileNetV2.
 
-**🔗 Live demo:** (ADD YOUR STREAMLIT LINK HERE)
+**🔗 Live demo:** (https://garbage-classification-fizza.streamlit.app)
 > If the app is asleep, click the wake-up button and wait about 30 seconds.
 
 ## Results
